@@ -1,5 +1,5 @@
 # Portfolio
-
+![img alt](https://github.com/RevaKaushal/Portfolio/blob/d2c1ed286bf92f562737405415658e6d6b400783/Screenshot%202025-01-16%20234738.png)
 Welcome to my inroduction Portfolio, a stunning website clone inspired by award-winning designs from Awards. Crafted immersive web experience, mastering 3D libraries, and implementing engaging animations. This project is combination of creativity and technical skills .
 ## Deployed Website Link:
 You can access the deployed version of Portfolio [here](https://portfolio-pearl-theta-31.vercel.app/).
@@ -16,22 +16,23 @@ You can access the deployed version of Portfolio [here](https://portfolio-pearl-
 
 ## Features:
 
-1. **Landing Page with Animation:**
-   - Our landing page greets users with captivating animations to grab their attention and create a memorable first impression.
+👉 Customizable 3D Hero Section: Includes a 3D desktop model easily customizable to suit specific needs.
 
-2. **About Section:**
-   - Learn more about OCHI DESIGN through our detailed and engaging About section, designed to captivate and inform visitors.
+👉 Interactive Experience and Work Sections: Utilizes animations powered by framer motion for engaging user experience.
 
-3. **Routes and Responsiveness:**
-   - Implemented routes using React Router DOM for seamless navigation between different sections of the website.
-   - Made the website responsive to ensure compatibility across various devices and screen sizes.
+👉 3D Skills Section: Showcases skills using 3D geometries through three.js and React Three fiber
 
-## Technologies Used:
+👉 Animated Projects and Testimonials: Features animated sections using framer motion for projects and client testimonials.
 
-- **Framer Motion:** Implemented for creating fluid animations and interactive gestures, enhancing the overall user experience.
-- **GSAP (GreenSock Animation Platform):** Employed for advanced animation effects, adding depth and richness to the website's visuals.
-- **Locomotive Scroll:** Integrated for smooth scrolling functionality, ensuring seamless navigation throughout the website.
-- **Responsive Design:** Ensured the website is fully responsive using  flexible layout techniques.
+👉 Contact Section with 3D Earth Model:Integrates a 3D earth model with email functionality powered by emailjs.
+
+👉 3D Stars: Generate stars progressively at random positions using Three.js for background display.
+
+👉 Consistent Animations: Implements cohesive animations throughout the website using framer motion.
+
+👉 Responsive Design: Ensures optimal display and functionality across all devices.
+
+and many more, including code architecture and reusability
 
 
 
